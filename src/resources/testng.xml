@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Test Suite"
+	parallel="methods" thread-count="2">
+	<listeners>
+		<!-- <listener class-name="reportsLayer.ExtentReporterNG" -->
+		<!-- parallel="methods" thread-count="7" /> -->
+	</listeners>
+	<test name="Test Cases">
+		<classes>
+			<class name="testLibrary.HomePageTest">
+				<methods>
+					<include name=makeBookingE2ETest />
+					<include name=makeBookingE2ETest />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

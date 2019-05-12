@@ -1,0 +1,12 @@
+com\sellics\seller\BackendAPITests\ProfitAPIStressTest.class
+com\sellics\seller\TestLibrary\ProfitOverviewPageTest.class
+com\sellics\seller\BackendAPITests\HeuristicsStressTest$1.class
+com\sellics\seller\BackendAPITests\ProfitAPILoadTest.class
+com\sellics\seller\TestLibrary\Heuristics.class
+com\sellics\seller\TestLibrary\ExecutorOfTasks.class
+com\sellics\seller\TestLibrary\PpcDataTest.class
+com\sellics\seller\BackendAPITests\HeuristicsStressTest.class
+com\sellics\seller\BackendAPITests\StressTestFutures.class
+com\sellics\seller\TestLibrary\CallerOfTasks.class
+com\sellics\seller\TestLibrary\CockpitPageTest.class
+com\sellics\seller\BackendAPITests\HeuristicsStressTest$2.class
